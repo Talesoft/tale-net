@@ -5,6 +5,8 @@ namespace Tale\Net\Ip;
 class Port
 {
 
+    private function __construct() {}
+
     const TCPMUX = 1;
     const COMPRESSNET = 3;
     const RJE = 5;

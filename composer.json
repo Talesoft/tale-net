@@ -18,7 +18,9 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.5.0"
+        "php": ">=5.5.0",
+        "psr/http-message": "*",
+        "talesoft/tale-stream": "*"
     },
     "autoload": {
         "psr-4": {
