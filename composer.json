@@ -20,7 +20,8 @@
     "require": {
         "php": ">=5.5.0",
         "psr/http-message": "*",
-        "talesoft/tale-stream": "*"
+        "talesoft/tale-stream": "*",
+        "talesoft/tale-config": "*"
     },
     "autoload": {
         "psr-4": {

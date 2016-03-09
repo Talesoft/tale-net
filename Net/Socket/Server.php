@@ -14,10 +14,5 @@ class Server extends SocketBase
         if ($uri instanceof UriInterface)
             $context = (string)$uri;
 
-        stream_socket_server($uri,)
-
-        parent::__construct(
-
-        )
     }
 }
